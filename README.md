@@ -2,6 +2,10 @@
 
 ## Dette er min løsning
 
-![GitHub Logo](/images/logo.png)
 
+### Min html fil
+![alt text](https://github.com/rasm211d/ExpressDerReturnererJson/blob/master/pictures/Udklip.PNG)
+
+
+### Min 
 
