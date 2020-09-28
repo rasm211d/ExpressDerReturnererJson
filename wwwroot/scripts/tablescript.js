@@ -1,5 +1,3 @@
-
-
 function select(sel) {
     var xmlhttp, myObj, x, txt = "";
     xmlhttp = new XMLHttpRequest();
